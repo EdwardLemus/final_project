@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "317085620393",
-    "project_id": "proyecto-final-3af31",
-    "storage_bucket": "proyecto-final-3af31.appspot.com"
+    "project_number": "75072800939",
+    "project_id": "crud22-8c548",
+    "storage_bucket": "crud22-8c548.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:317085620393:android:0a1569df4d4333b967b1b8",
+        "mobilesdk_app_id": "1:75072800939:android:05d18e72046832eccfcfee",
+        "android_client_info": {
+          "package_name": "com.eslc.crud_22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtU8uhdQiJ__9-OgKQJMOhLFn_uAWrNlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75072800939:android:6803f3e0923328fbcfcfee",
         "android_client_info": {
           "package_name": "com.sysfinal.project_final"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAgU1PvilIJjcV1R8jB-8uYRDGTMNvx6k8"
+          "current_key": "AIzaSyCtU8uhdQiJ__9-OgKQJMOhLFn_uAWrNlU"
         }
       ],
       "services": {
